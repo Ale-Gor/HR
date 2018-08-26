@@ -1,0 +1,84 @@
+___Soft skills___
+
+Can you tell me about your QA interview experience?
+My actuality job position is QA Engineer. As a QA person, I used a variety of platforms and operating systems including Windows 95, Windows 2000, Windows XP and UNIX. I have experience with testing applications developed in Java, C++, Visual Basic and so on. I have also tested Mobile Applications on different IOS and Android platforms to make sure that the applications also works accordingly in mobile devices. My best skills:
+
+Written Test Plans, Test Cases, Checklist.
+Tested Web-based applications as well as client server applications.
+Strong knowledge of Smoke Testing, Functional Testing, Backend Testing, BlackBox Testing, Integration Testing, Regression Testing and UAT (User Acceptance Testing) Testing
+Worked in different databases like Oracle and DB2 (wrote SQL queries to retrieve data from the database).
+I also worked with a Business Analysts, Project Managers, Business Managers and QA Leads. I participated in meetings and provided feedback to the Business Analysts.
+
+What to expect during an qa interview questions?
+
+Why QA?
+I was always interested in Development and I wanted to connect my life with IT world so I decided to start my career as QA Engineer. Why QA? Because the career in Software Testing involves stringent processes, scripting knowledge, the knack for details, business understanding, expert communications, an array of different testing types like security, mobile apps, performance, cloud, etc.
+
+Why do you like this job?
+Firstly, because that is the job where the result of your efforts it is a good product that you want to enjoy. The work is included processing with program data and with a variety of development options. Search for bugs and writing user cases that facilitate the development, and allows you to adopt the product for usage by the user. Here you need to have full information about both the device and the product in order to find the most hidden bugs or possible malfunctions during the program operation.
+
+From you resume, I see that you have been working in one place for a very short period of time. This raises my questions why. Can you explain why?
+Sorry, I want to clarify. These are not different workplaces, it’s a different project. Because my previous job position was a consultant and I was doing project work. When one project was over, I needed to choose another project.
+
+What did you do in your last project?
+My the most recent project was the development an app on Java. It is the application for web/desktop. First, I’ve compiled all the test plans, in full accordance with case specifications. Then, various types of testing needed for that task – smoke tests, functional tests, backend tests, black-box tests, as well as some optional tests like integration testing, regression testing, and user acceptance. During some work meetings that followed, I’ve given my feedback on the app performance to project managers and analysts. But most of the time for this project I have been conducting backend testing. This meant writing SQL queries into the database. In Addition, I’ve corrected certain errors with ClearQuest and conducted repeat testing.
+
+Are you better working in a team or working alone?
+I get along with other people very well and I like to work in a team. I’d say that I’m a team player. To my mind, the tasks may be done more efficiently when you have several meanings concerning some of them.
+
+What to expect during an qa interview questions?
+
+How to deal with your team members?
+I think that I will be working in a big QA department which consists of people with different lifestyles, hobbies, tastes and so on. From my experience, the first step of the establishment of nice relationships with your team is to cope with them during the coffee break.
+
+Do you have any situations in the past where you have some arguments with your team members?
+From my experience, I don’t have any situations where I had some conflict with my team members.
+
+What do you like about a Manager? And what don’t you like?
+I have been very lucky to have had terrific managers during my career so far. In my last job, I liked the fact that I may go to my manager if I have an issue or ideas and be able to feel comfortable with expressing my thoughts. Good skills for a Manager it is organized and monitor team’s work that can help your team accomplish its objectives efficiently. I don’t like a Manager who unable to make a decision.
+
+Talk about a conflict or challenge you faced at work, and how you handled it?
+In my job, I’m dealing with customers and we have been disagreements that needed to be resolved, so I briefly explained my position and then suggested a plan to resolve the issue effectively that enabled us to maintain him as a client. I think everyone should face challenges you will gain knowledge while you face’s challenge.
+
+What did you learn from your previous companies?
+I have learned from my previous companies a lot of new. Each of them had their style of work and management. The team atmosphere in one company differs from others a lot.
+
+What is your goal?
+My goal is to be hired to this job position and to provide a company with the highly-qualified specialist and then to develop my skills more and more.
+
+ the most popular qa interview questions
+
+What are your career goals?
+I want to develop myself in QA and to become the best in this area, learning and studying as much as I can.And I would like to become a lead and a mentor to help others in their development.
+
+What is your weakness?
+My weakness is that I am very cautious. If I have to do some work and there is a deadline I will examine it very carefully and many times before deadline.
+
+As a QA Tester, can you tell me the situation when you felt the proudest of it?
+I found bugs that crashed the whole system at the end of the testing phase. I tried the scenarios where the scenarios were NOT mentioned in the test cases. For example, we can close the windows by clicking X on the page, with “Close” button and so on. But there is another way that you can close the window, by pressing Alt+F4 on the keyboard. Not many testers test this scenario. I have done this in my last two projects. Both the time, the application crashed which became a big issue. I felt proud.
+
+What are your strengths?
+One of my strength is my good memory. I can remember a lot of information and keep it in my mind for a long period of time. Another my strength is that I am rather dedicated to my job.
+
+Why do you leave your last job?
+I want to develop myself in QA and to become the best in this area, learning and studying as much as I can. And I would like to become a lead and a mentor to help others in their development.
+
+What are you expecting from our company?
+I am expecting from your company that I will gain my knowledge and improve my skills and I will do my best in order to enhance the productivity of your company. I also want to get acquainted with new people who are interested in the same area as me.
+
+What is your salary requirement?
+Salary isn’t my main consideration when making this decision, but in recent years my compensation has ranged between _ and _.
+
+What to expect during an qa interview questions?
+
+What do you want to be in next 2-5 years?
+I plan to raise my level to Middle QA Engineer and become a QA lead.” Why QA Lead? Why not something else? I want to know how to handle different jobs how to manage QA process and so on.
+
+Why are you looking for another job?
+At first, I would like to thank my previous company. Where I have a good chance to learn lots of things like great technical skills, teamwork, time management and professionalism. Second thing is that I want to be learned new skills and enhance my knowledge for the better future both things are not filled the that’s the reason I left my last job. Right now I am looking new challenge where I growth my skills and development professional and financial growth.
+
+What do you do on your first day of work?
+On the first day of my work, I will be provided with a computer and given the User Name and Password for the computer by support people. After that, I will acquaint with some documents and members of my team. The next step will be the implementation of the first task given by my boss and introduction to the documents which are connected to the project.
+
+Why should we hire you?
+I really fit for this position because I have the great experience in this field. I will be a good team player because I enjoy the team atmosphere. I like the Software testing process and when team members work hand-in-hand with each other to reach the goal in the specified time line. I think your company is the right place to explore my skill and I want to be a part of your success.
